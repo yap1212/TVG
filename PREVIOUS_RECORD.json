@@ -1,0 +1,49 @@
+{
+    "game_pictogram": "pitrogram_pencak_silat",
+    "header_1": "SARAWAK",
+    "header_2": "MEN'S DOUBLE (GANDA) - GOLD MEDAL MATCH",
+    "header_3": "PREVIOUS RESULTS",
+    "font_type": "Barlow_SemiBold",
+    "header_1_color": "000000",
+    "header_2_color": "ffffff",
+    "header_3_color": "fb9828",
+    "inner_bar": [
+        {
+            "bar_content": {
+                "flag": "PRK",
+                "name": "PERAK",
+                "group": "GROUP D",
+                "vs": "2-0",
+                "WL": "W"
+            },
+            "bar_content": {
+                "flag": "SEL",
+                "name": "SELANGOR",
+                "group": "GROUP D",
+                "vs": "2-0",
+                "WL": "W"
+            },
+            "bar_content": {
+                "flag": "WPE",
+                "name": "WILAYAH PERSEKUTUAN",
+                "group": "GROUP D",
+                "vs": "2-1",
+                "WL": "W"
+            },
+            "bar_content": {
+                "flag": "SAB",
+                "name": "SABAH",
+                "group": "QF",
+                "vs": "2-1",
+                "WL": "W"
+            },
+            "bar_content": {
+                "flag": "TER",
+                "name": "TERENGGANU",
+                "group": "SF",
+                "vs": "2-0",
+                "WL": "W"
+            }
+        }
+    ]
+}
