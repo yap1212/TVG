@@ -1,0 +1,56 @@
+{
+    "game_pictogram": "pitrogram_pencak_silat",
+    "header_1": "PENCAK SILAT",
+    "header_2": "EVENT SCHEDULE",
+    "header_3": "EVENT SCHEDULE",
+    "font_type": "Barlow_SemiBold",
+    "header_1_color": "000000",
+    "header_2_color": "ffffff",
+    "header_3_color": "ffffff",
+    "inner_bar": [
+        {
+            "bar_content": {
+                "bar_content": {
+                    "no": "1",
+                    "flag": "SAR",
+                    "name": "SARAWAK"
+                },
+                "bar_content": {
+                    "no": "2",
+                    "flag": "PRK",
+                    "name": "PERAK"
+                },
+                "bar_content": {
+                    "no": "3",
+                    "flag": "SEL",
+                    "name": "SELANGOR"
+                },
+                "bar_content": {
+                    "no": "4",
+                    "flag": "WPE",
+                    "name": "WILAYAH PERSEKUTUAN"
+                },
+                "bar_content": {
+                    "no": "5",
+                    "flag": "MEL",
+                    "name": "MELAKA"
+                },
+                "bar_content": {
+                    "no": "6",
+                    "flag": "KEL",
+                    "name": "KELANTAN"
+                },
+                "bar_content": {
+                    "no": "7",
+                    "flag": "SAB",
+                    "name": "SABAH"
+                },
+                "bar_content": {
+                    "no": "8",
+                    "flag": "JOH",
+                    "name": "JOHOR"
+                }
+            }
+        }
+    ]
+}
